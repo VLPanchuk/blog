@@ -6,4 +6,5 @@ djangorestframework==3.9.0
 djangorestframework-jsomapi==2.4.0
 djangorestframework-jwt==1.11.0
 djoser==1.1.5
+
 pytz==2018.7
