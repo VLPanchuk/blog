@@ -3,7 +3,7 @@ django-cors-headers== 2.2.0
 django-rest-swagger==2.1.2
 django-summernote==0.8.8.6
 djangorestframework==3.9.0
-djangorestframework-jsomapi==2.4.0
+djangorestframework-jsonapi==2.4.0
 djangorestframework-jwt==1.11.0
 djoser==1.1.5
 
